@@ -59,8 +59,8 @@ spec:
             cpu: "700m"
             memory: 1200Mi
           requests:
-            cpu: 500m
-            memory: 1000Mi
+            cpu: 600m
+            memory: 11000Mi
         terminationMessagePath: /dev/termination-log
         terminationMessagePolicy: File
       dnsPolicy: ClusterFirst
